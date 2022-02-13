@@ -1,0 +1,19 @@
+{
+  "name": "wordle",
+  "version": "1.0.0",
+  "description": "Tutorial App in JavScript for the game Wordle",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marco36Lacerda/wordle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marco36Lacerda/wordle/issues"
+  },
+  "homepage": "https://github.com/Marco36Lacerda/wordle#readme"
+}
