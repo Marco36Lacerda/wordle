@@ -6,10 +6,12 @@
 
 body {
   background-color: #121213;
+  margin: 0;
+  padding: 0;
 }
 
 .game-container {
-  height: 90vh;
+  height: 97vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -20,6 +22,11 @@ body {
   text-align: center;
   width: 510px;
   border-bottom: solid 1px #3a3a3c;
+}
+
+.title-container h1 {
+  margin: 5px 0;
+  font-size: 1.75rem;
 }
 
 .tile-container {
@@ -73,7 +80,7 @@ body {
 .message-container p {
   background-color: #818384;
   border-radius: 10px;
-  padding: 10px;
+  padding: 5px;
   margin: 0;
 }
 
