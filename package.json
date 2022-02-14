@@ -1,8 +1,5 @@
 {
-<<<<<<< HEAD
   "homepage": "https://marco36lacerda.github.io/wordle",
-=======
->>>>>>> c150464b6be6c556fbc6ce845a41e799b0683de2
   "name": "wordle",
   "version": "1.0.0",
   "description": "Tutorial App in JavScript for the game Wordle",
